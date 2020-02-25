@@ -1,8 +1,7 @@
 # HPManager_Experiments
-Simple repo to show my health system. Made by Jordi Alba.
---------------
 
-· Currently a prefab made with Unity 2019.2.12f1
+- Simple repo to show my health system. Made by Jordi Alba.
+--------------
 
 ### Includes
 - [x] Prefab with colliders.
@@ -10,4 +9,4 @@ Simple repo to show my health system. Made by Jordi Alba.
 - [x] The manager and the bodyparts.
 - [x] Three interfaces, IRespawnable, IInteractable and IDamageable
 
-NOTE: Colliders not attached to the bones.
+NOTE: Colliders not attached to the bones. Made with Unity 2019.2.12f1
